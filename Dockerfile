@@ -1,4 +1,4 @@
-FROM redis:5.0.5
+FROM redis:5.0.5-alpine
 LABEL image="redis"
 LABEL versie="0.1"
 LABEL datum="2019 07 10"
